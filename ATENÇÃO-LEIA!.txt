@@ -1,0 +1,4 @@
+Ao iniciar o jogo digite o nome dos jogadores no console, após matar uma pedra aperte "V" para passar a vez, caso queira continuar matando tera mais uma jogada a cada pedra morta.
+"ESC" - REINICIAR
+"V" - PASSA VEZ
+"MOUSE" - SELECIONA PEÇA
